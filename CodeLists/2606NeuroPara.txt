@@ -1,0 +1,789 @@
+term	n	Group	Umbrella
+"""jacksonian, focal or motor epilepsy"""	8	Epilepsy	Epilepsy or seizures
+"""mitochond encephalopathy, lact acidosis & strokelike episode"""	2	Exclude	Exclude
+"""post-traumatic hydrocephalus, unspecified"""	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+"""secondary parkinsonism, unspecified"""	7	Parkinson's Disease	Parkinsonism other
+"""status epilepticus, unspecified"""	58	Epilepsy	Epilepsy or seizures
+[d]ataxia nos	363	Ataxic disorders	Ataxic disorders
+[d]nocturnal seizure	44	Epilepsy	Epilepsy or seizures
+[d]reflex anoxic seizure	40	Reflex syncope	Disorders of autonomic nervous system
+[d]seizure nos	5279	Epilepsy	Epilepsy or seizures
+[rfc] multiple sclerosis	68	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+[rfc] parkinson's disease	84	Parkinson's Disease	Parkinson's Disease
+[x]acquired aphasia with epilepsy [landau - kleffner]	5	Epilepsy	Epilepsy or seizures
+"[x]acute disseminated demyelination, unspecified"	5	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+[x]dementia in human immunodef virus [hiv] disease	7	Dementia unknown/unspecified/other	Dementia
+[x]demyelinating diseases of the central nervous system	28	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+[x]epileptic psychosis nos	34	Epilepsy	Epilepsy or seizures
+[x]oth unspec antiepileptics caus adverse eff in therap use	3	Epilepsy	Epilepsy or seizures
+[x]other chorea	6	Huntington/Chorea	Movement disorders other
+[x]other congenital hydrocephalus	2	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+[x]other drug-induced secondary parkinsonism	12	Parkinson's Disease	Parkinsonism other
+[x]other epilepsy	9	Epilepsy	Epilepsy or seizures
+[x]other generalized epilepsy and epileptic syndromes	18	Epilepsy	Epilepsy or seizures
+[x]other hereditary ataxias	3	Ataxic disorders	Ataxic disorders
+[x]other hydrocephalus	6	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+[x]other secondary parkinsonism	30	Parkinson's Disease	Parkinsonism other
+[x]other specified acute disseminated demyelination	2	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+[x]other specified demyelinating diseases/the cns	41	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+[x]other status epilepticus	5	Epilepsy	Epilepsy or seizures
+[x]parkinsonism in diseases classified elsewhere	29	Parkinson's Disease	Parkinsonism other
+"[x]secondary parkinsonism, unspecified"	7	Parkinson's Disease	Parkinsonism other
+"[x]status epilepticus, unspecified"	7	Epilepsy	Epilepsy or seizures
+1 to 12 seizures a year	3194	Epilepsy	Epilepsy or seizures
+1 to 7 seizures a week	821	Epilepsy	Epilepsy or seizures
+2 to 4 seizures a month	1207	Epilepsy	Epilepsy or seizures
+absence seizure	365	Epilepsy	Epilepsy or seizures
+acquired communicating hydrocephalus	20	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+acquired obstructive hydrocephalus	78	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+adverse reaction to antiepileptics	1	Epilepsy	Epilepsy or seizures
+adverse reaction to drugs used in control of epilepsy	1	Epilepsy	Epilepsy or seizures
+amyotrophic lateral sclerosis	10	MND	Motor neuron diseases or related disorders
+annual stroke/cva blood test	14	Exclude	Exclude
+anoxic - ischaemic encephalopathy	5	Cerebrovascular disease	Cerebrovascular disease
+anterior horn cell disease	20	MND	Motor neuron diseases or related disorders
+anterior horn cell disease nos	4	MND	Motor neuron diseases or related disorders
+antiparkinsonian drug poisoning nos	2	Exclude	Exclude
+antiparkinsonism drug poisoning	2	Exclude	Exclude
+ataxia	83	Ataxic disorders	Ataxic disorders
+benign multiple sclerosis	10	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+benign rolandic epilepsy	97	Epilepsy	Epilepsy or seizures
+bilirubin encephalopathy	1	Exclude	Exclude
+cause of learning disabilities: congenital hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+central demyelination of corpus callosum	1	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+central nervous system demyelination nos	96	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+cerebellar (nontraum) and post fossa haemorhage fet newborn	2	Ataxic disorders	Ataxic disorders
+cerebellar abscess	1	Ataxic disorders	Ataxic disorders
+cerebellar ataxia	31	Ataxic disorders	Ataxic disorders
+cerebellar ataxia due to alcoholism	11	Ataxic disorders	Ataxic disorders
+cerebellar ataxia in disease nos	1	Ataxic disorders	Ataxic disorders
+cerebellar ataxia nos	343	Ataxic disorders	Ataxic disorders
+cerebellar disease	97	Ataxic disorders	Ataxic disorders
+cerebellar hypoplasia	4	Ataxic disorders	Ataxic disorders
+cerebral ataxia	125	Ataxic disorders	Ataxic disorders
+childhood cerebral degenerations nos	1	Ataxic disorders	Ataxic disorders
+complex partial epileptic seizure	459	Epilepsy	Epilepsy or seizures
+complex partial status epilepticus	37	Epilepsy	Epilepsy or seizures
+congenital hydrocephalus	40	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+congenital hydrocephalus nos	5	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+contraceptiv advice for patients with epilepsy not indicated	612	Epilepsy	Epilepsy or seizures
+contraceptive advice for patients on valproate for epilepsy	9	Epilepsy	Epilepsy or seizures
+contraceptive advice for patients with epilepsy declined	75	Epilepsy	Epilepsy or seizures
+daily seizures	305	Epilepsy	Epilepsy or seizures
+drug induced parkinsonism	296	Parkinson's Disease	Parkinsonism other
+drug-induced chorea	1	Chorea	Movement disorders other
+encephalopathy - hepatic	149	Exclude	Exclude
+epilepsy	35721	Epilepsy	Epilepsy or seizures
+epilepsy associated problems	61	Epilepsy	Epilepsy or seizures
+epilepsy care arrangement	34	Epilepsy	Epilepsy or seizures
+epilepsy confirmed	49	Epilepsy	Epilepsy or seizures
+epilepsy control good	470	Epilepsy	Epilepsy or seizures
+epilepsy control poor	110	Epilepsy	Epilepsy or seizures
+epilepsy drug side effects	302	Epilepsy	Epilepsy or seizures
+epilepsy limits activities	22	Epilepsy	Epilepsy or seizures
+epilepsy management plan given	313	Epilepsy	Epilepsy or seizures
+epilepsy medication review	28476	Epilepsy	Epilepsy or seizures
+epilepsy monitoring	10803	Epilepsy	Epilepsy or seizures
+epilepsy monitoring administration	8	Epilepsy	Epilepsy or seizures
+epilepsy monitoring call first letter	622	Epilepsy	Epilepsy or seizures
+epilepsy monitoring call second letter	169	Epilepsy	Epilepsy or seizures
+epilepsy monitoring nos	327	Epilepsy	Epilepsy or seizures
+epilepsy monitoring telephone invite	51	Epilepsy	Epilepsy or seizures
+epilepsy monitoring verbal invite	33	Epilepsy	Epilepsy or seizures
+epilepsy nos	1904	Epilepsy	Epilepsy or seizures
+epilepsy prevents employment	11	Epilepsy	Epilepsy or seizures
+epilepsy restricts employment	14	Epilepsy	Epilepsy or seizures
+epilepsy treatment changed	584	Epilepsy	Epilepsy or seizures
+epilepsy treatment compliance good	21	Epilepsy	Epilepsy or seizures
+epilepsy treatment continued	54	Epilepsy	Epilepsy or seizures
+epilepsy treatment started	166	Epilepsy	Epilepsy or seizures
+epilepsy treatment stopped	92	Epilepsy	Epilepsy or seizures
+epileptic absences	121	Epilepsy	Epilepsy or seizures
+epileptic automatism	7	Epilepsy	Epilepsy or seizures
+epileptic seizures - akinetic	13	Epilepsy	Epilepsy or seizures
+epileptic seizures - atonic	31	Epilepsy	Epilepsy or seizures
+epileptic seizures - clonic	219	Epilepsy	Epilepsy or seizures
+epileptic seizures - myoclonic	68	Epilepsy	Epilepsy or seizures
+epileptic seizures - tonic	359	Epilepsy	Epilepsy or seizures
+exacerbation of multiple sclerosis	99	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+exception reporting: epilepsy quality indicators	142	Epilepsy	Epilepsy or seizures
+extrapyramidal disease excluding parkinson's disease	25	Movement disorders	Movement disorders other
+fit (in known epileptic) nos	748	Epilepsy	Epilepsy or seizures
+focal epilepsy	302	Epilepsy	Epilepsy or seizures
+follow-up epilepsy assessment	1346	Epilepsy	Epilepsy or seizures
+fragile x associated tremor ataxia syndrome	4	Ataxic disorders	Ataxic disorders
+friedreich's ataxia	107	Ataxic disorders	Ataxic disorders
+generalised convulsive epilepsy	511	Epilepsy	Epilepsy or seizures
+generalised convulsive epilepsy nos	32	Epilepsy	Epilepsy or seizures
+generalised multiple sclerosis	34	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+generalised nonconvulsive epilepsy	80	Epilepsy	Epilepsy or seizures
+generalised nonconvulsive epilepsy nos	5	Epilepsy	Epilepsy or seizures
+generalised seizure	143	Epilepsy	Epilepsy or seizures
+grand mal (major) epilepsy	3957	Epilepsy	Epilepsy or seizures
+grand mal seizure	1211	Epilepsy	Epilepsy or seizures
+grand mal status	191	Epilepsy	Epilepsy or seizures
+h/o: epilepsy	1558	Epilepsy	Epilepsy or seizures
+hemiballismus	27	Chorea	Movement disorders other
+history of parkinson's disease	37	Parkinson's Disease	Parkinson's Disease
+honos-ld item 13 - seizures	9	Epilepsy	Epilepsy or seizures
+huntington's chorea	723	Huntington/Chorea	Movement disorders other
+hydrocephalus	399	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+hypertensive encephalopathy	37	Exclude	Exclude
+infantile spasms	22	Epilepsy	Epilepsy or seizures
+"jacksonian, focal or motor epilepsy"	50	Epilepsy	Epilepsy or seizures
+juvenile absence epilepsy	31	Epilepsy	Epilepsy or seizures
+juvenile myoclonic epilepsy	98	Epilepsy	Epilepsy or seizures
+lightning spasms	2	Epilepsy	Epilepsy or seizures
+locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset	18	Epilepsy	Epilepsy or seizures
+locomotor ataxia	11	Ataxic disorders	Ataxic disorders
+lumbar spina bifida without mention of hydrocephalus	3	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+management of multiple sclerosis in stable disability phase	5	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+many seizures a day	71	Epilepsy	Epilepsy or seizures
+marie's cerebellar ataxia	4	Ataxic disorders	Ataxic disorders
+"mitochond encephalopathy, lact acidosis & strokelike episode"	2	Exclude	Exclude
+multiple sclerosis	9304	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis - primary progressive	43	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis - relapsing remitting	61	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis - secondary progressive	27	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis care plan agreed	25	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis multidisciplinary review	19	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis nos	266	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis of the brain stem	27	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis review	154	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+"multiple system atrophy, cerebellar variant"	3	Disorders of autonomic nervous system	Disorders of autonomic nervous system
+"multiple system atrophy, parkinson variant"	1	Disorders of autonomic nervous system	Disorders of autonomic nervous system
+myelocele with hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+myoclonic encephalopathy	2	Exclude	Exclude
+myoclonic seizure	53	Epilepsy	Epilepsy or seizures
+neonatal myoclonic epilepsy	3	Epilepsy	Epilepsy or seizures
+neuromyelitis optica	8	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+nocturnal epilepsy	225	Epilepsy	Epilepsy or seizures
+normal pressure hydrocephalus	98	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+o/e - parkinson posture	29	Parkinson's Disease	Parkinson's Disease
+o/e - parkinsonian tremor	529	Parkinson's Disease	Parkinson's Disease
+o/e-festination-parkinson gait	10	Parkinson's Disease	Parkinson's Disease
+ohtahara syndrome	2	Epilepsy	Epilepsy or seizures
+other central nervous system demyelinating diseases	85	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+other choreas	31	Huntington/Chorea	Movement disorders other
+other choreas nos	27	Huntington/Chorea	Movement disorders other
+other forms of epilepsy	22	Epilepsy	Epilepsy or seizures
+other forms of epilepsy nos	9	Epilepsy	Epilepsy or seizures
+other specified central nervous system demyelinating disease	8	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+other specified central nervous system demyelination nos	10	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+other specified generalised nonconvulsive epilepsy	3	Epilepsy	Epilepsy or seizures
+paralysis agitans	388	Parkinson's Disease	Parkinson's Disease
+parkinsonism secondary to drugs	115	Parkinson's Disease	Parkinsonism other
+parkinsonism with orthostatic hypotension	13	Parkinson's Disease	Parkinsonism other
+parkinson's disease	14369	Parkinson's Disease	Parkinson's Disease
+parkinson's disease nos	1066	Parkinson's Disease	Parkinson's Disease
+paroxysmal choreo-athetosis	15	Dystonic disorders	Movement disorders other
+partial epilepsy	59	Epilepsy	Epilepsy or seizures
+partial epilepsy with impairment of consciousness	74	Epilepsy	Epilepsy or seizures
+partial epilepsy without impairment of consciousness	152	Epilepsy	Epilepsy or seizures
+partial epilepsy without impairment of consciousness os	25	Epilepsy	Epilepsy or seizures
+peroneal muscular atrophy	110	Hereditary neuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+petit mal (minor) epilepsy	1050	Epilepsy	Epilepsy or seizures
+petit mal status	21	Epilepsy	Epilepsy or seizures
+photosensitive epilepsy	16	Epilepsy	Epilepsy or seizures
+postencephalitic parkinsonism	2	Parkinson's Disease	Parkinsonism other
+post-ictal state	111	Epilepsy	Epilepsy or seizures
+pre-conception advice for patients with epilepsy	1382	Epilepsy	Epilepsy or seizures
+pre-conception advice for patients with epilepsy declined	67	Epilepsy	Epilepsy or seizures
+pregnancy advice for patients with epilepsy	1391	Epilepsy	Epilepsy or seizures
+pregnancy advice for patients with epilepsy declined	58	Epilepsy	Epilepsy or seizures
+primary cerebellar degeneration	27	Ataxic disorders	Ataxic disorders
+primary cerebellar degeneration nos	18	Ataxic disorders	Ataxic disorders
+primary progressive multiple sclerosis	18	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+progressive multifocal leucoencephalopathy	5	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+progressive multifocal leukoencephalopathy	3	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+progressive myoclonic epilepsy	11	Epilepsy	Epilepsy or seizures
+progressive supranuclear palsy	109	Parkinson's Disease	Parkinson's Disease
+pseudobulbar palsy	111	MND	Motor neuron diseases or related disorders
+psychosensory epilepsy	4	Epilepsy	Epilepsy or seizures
+rachischisis with hydrocephalus	2	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+reason for referral: epilepsy	2	Epilepsy	Epilepsy or seizures
+reason for referral: parkinsons disease	4	Parkinson's Disease	Parkinson's Disease
+referral by multiple sclerosis nurse specialist	3	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+referral to community multiple sclerosis team	16	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+relapsing and remitting multiple sclerosis	136	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+rheumatic chorea	28	Huntington/Chorea	Movement disorders other
+sacral spina bifida without hydrocephalus - closed	2	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+"secondary parkinsonism, unspecified"	111	Parkinson's Disease	Parkinsonism other
+secondary progressive multiple sclerosis	46	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+seen by parkinson's service	6	Parkinson's Disease	Parkinson's Disease
+seizure free >12 months	15149	Epilepsy	Epilepsy or seizures
+simple partial epileptic seizure	80	Epilepsy	Epilepsy or seizures
+spec serv for pat with multiple sclerosis - enh serv admin	9	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+spina bifida with hydrocephalus	43	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida with hydrocephalus - open nos	2	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida with hydrocephalus nos	4	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+"spina bifida with hydrocephalus, unspecified"	10	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida without mention of hydrocephalus	15	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+spinal demyelination	13	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+spinal muscular atrophy	59	Spinal muscular atrophy	Motor neuron diseases or related disorders
+spinal muscular atrophy nos	5	Spinal muscular atrophy	Motor neuron diseases or related disorders
+spinocerebellar disease	48	Ataxic disorders	Ataxic disorders
+spinocerebellar disease nos	4	Ataxic disorders	Ataxic disorders
+status epilepticus	189	Epilepsy	Epilepsy or seizures
+"status epilepticus, unspecified"	37	Epilepsy	Epilepsy or seizures
+sydenham's chorea	23	Huntington/Chorea	Movement disorders other
+temporal lobe epilepsy	1293	Epilepsy	Epilepsy or seizures
+thoracolumbar spina bifida with hydrocephalus - closed	2	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+tonic-clonic epilepsy	379	Epilepsy	Epilepsy or seizures
+toxic encephalopathy	4	Exclude	Exclude
+transient epileptic amnesia	5	Epilepsy	Epilepsy or seizures
+transverse myelitis	372	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+traumatic epilepsy	226	Epilepsy	Epilepsy or seizures
+tremors/seizures	38	Epilepsy	Epilepsy or seizures
+truncal ataxia	2	Ataxic disorders	Ataxic disorders
+unspecified encephalopathy	163	Exclude	Exclude
+visual reflex epilepsy	3	Epilepsy	Epilepsy or seizures
+wernicke's encephalopathy	84	Exclude	Exclude
+west syndrome	3	Epilepsy	Epilepsy or seizures
+[rfc] epilepsy/convulsion	1	Epilepsy	Epilepsy or seizures
+[x] adverse react to anticonvulsants & anti-parkinsons drugs	1	Exclude	Exclude
+[x]limbic epilepsy personality	1	Epilepsy	Epilepsy or seizures
+"[x]post-traumatic hydrocephalus, unspecified"	4	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+[x]unspecified spina bifida with hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+acquired hydrocephalus of newborn	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+"acute disseminated demyelination, unspecified"	4	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+adult spinal muscular atrophy	1	Spinal muscular atrophy	Motor neuron diseases or related disorders
+adverse reaction to antiparkinsonism drugs	1	Exclude	Exclude
+adverse reaction to antiparkinsonism drugs nos	1	Exclude	Exclude
+amyotrophic lateral sclerosis drugs band 1	1	MND	Motor neuron diseases or related disorders
+amyotrophic lateral sclerosis functional rating scale - rvsd	1	MND	Motor neuron diseases or related disorders
+anticonvulsant or antiparkinsonian drug poisoning nos	1	Exclude	Exclude
+ataxia-telangiectasia	3	Ataxic disorders	Ataxic disorders
+cerebellar ataxia in diseases ec	2	Ataxic disorders	Ataxic disorders
+communicating hydrocephalus - acquired nos	2	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+emergency epilepsy treatment since last appointment	12	Epilepsy	Epilepsy or seizures
+epilepsy monitoring in primary care	13	Epilepsy	Epilepsy or seizures
+epilepsy monitoring in secondary care	28	Epilepsy	Epilepsy or seizures
+epilepsy severity	9	Epilepsy	Epilepsy or seizures
+epilepsy treatment compliance poor	4	Epilepsy	Epilepsy or seizures
+fissured spine with hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+gelastic epilepsy	1	Epilepsy	Epilepsy or seizures
+h/o: seizures	1	Epilepsy	Epilepsy or seizures
+history of creutzfeldt-jakob disease	1	Human prion disorders	Dementia
+history of suspected creutzfeldt-jakob disease	1	Human prion disorders	Dementia
+hydrocephalus with atresia of foramina of magendie+luschka	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+hypsarrhythmia	2	Epilepsy	Epilepsy or seizures
+infantile spasms nos	1	Epilepsy	Epilepsy or seizures
+infantile spinal muscular atrophy	1	Spinal muscular atrophy	Motor neuron diseases or related disorders
+initial epilepsy assessment	5	Epilepsy	Epilepsy or seizures
+juvenile spinal muscular atrophy	1	Spinal muscular atrophy	Motor neuron diseases or related disorders
+kojevnikov's epilepsy	1	Epilepsy	Epilepsy or seizures
+lennox-gastaut syndrome	3	Epilepsy	Epilepsy or seizures
+limbic system epilepsy	2	Epilepsy	Epilepsy or seizures
+lindop parkinson's assessment scale - bed mobility score	1	Parkinson's Disease	Parkinson's Disease
+lindop parkinson's assessment scale - gait mobility score	1	Parkinson's Disease	Parkinson's Disease
+low pressure hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+lumbar spina bifida with hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+lumbar spina bifida with hydrocephalus - closed	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+lumbar spina bifida with hydrocephalus - open	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+lumbar spina bifida without hydrocephalus - closed	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+lumbar spina bifida without hydrocephalus - open	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+management of multiple sclerosis in early disease phase	2	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+management of multiple sclerosis in onset phase	1	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+management of multiple sclerosis in palliative phase	1	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+menstrual epilepsy	1	Epilepsy	Epilepsy or seizures
+motor epilepsy	43	Epilepsy	Epilepsy or seizures
+multiple sclerosis - personal health plan	1	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis monitoring first letter	3	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+multiple sclerosis of the spinal cord	1	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+neuropathy in association with hereditary ataxia	1	Ataxic disorders	Ataxic disorders
+o/e -parkinson flexion posture	1	Parkinson's Disease	Parkinson's Disease
+other specified generalised convulsive epilepsy	2	Epilepsy	Epilepsy or seizures
+other specified spina bifida with hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+other specified spina bifida without hydrocephalus	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+other spinocerebellar disease nos	1	Ataxic disorders	Ataxic disorders
+other spinocerebellar diseases	1	Ataxic disorders	Ataxic disorders
+otohara syndrome	1	Epilepsy	Epilepsy or seizures
+panayiotopoulos syndrome	1	Epilepsy	Epilepsy or seizures
+partial epilepsy with autonomic symptoms	1	Epilepsy	Epilepsy or seizures
+partial epilepsy with impairment of consciousness nos	60	Epilepsy	Epilepsy or seizures
+partial epilepsy without impairment of consciousness nos	10	Epilepsy	Epilepsy or seizures
+polyneuropathy in beriberi	1	Polyneuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+"post-traumatic hydrocephalus, unspecified"	4	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+progressive muscular atrophy	1	MND	Motor neuron diseases or related disorders
+psychomotor epilepsy	1	Epilepsy	Epilepsy or seizures
+pykno-epilepsy	1	Epilepsy	Epilepsy or seizures
+referral by parkinsons disease nurse specialist	2	Parkinson's Disease	Parkinson's Disease
+rheumatic chorea nos	1	Huntington/Chorea	Movement disorders other
+rheumatic chorea with heart involvement	1	Huntington/Chorea	Movement disorders other
+rheumatic chorea without mention of heart involvement	1	Huntington/Chorea	Movement disorders other
+sacral spina bifida with hydrocephalus - closed	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+sacral spina bifida with hydrocephalus - open	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+sacral spina bifida without hydrocephalus - open	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+salaam attacks	4	Epilepsy	Epilepsy or seizures
+schilder's disease	1	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+sensory induced epilepsy	1	Epilepsy	Epilepsy or seizures
+severe myoclonic epilepsy in infancy	1	Epilepsy	Epilepsy or seizures
+somatosensory epilepsy	1	Epilepsy	Epilepsy or seizures
+spina bifida with hydrocephalus - closed	6	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida with hydrocephalus - open	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida with hydrocephalus of late onset	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida without hydrocephalus - closed	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida without hydrocephalus - closed nos	2	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida without hydrocephalus - open	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida without hydrocephalus - open nos	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+"spina bifida without hydrocephalus, site unspecified"	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+spina bifida without mention of hydrocephalus nos	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+stress-induced epilepsy	3	Epilepsy	Epilepsy or seizures
+sudep - sudden unexpected death in epilepsy	1	Epilepsy	Epilepsy or seizures
+syphilitic parkinsonism	1	Parkinson's Disease	Parkinsonism other
+thoracic spina bifida with hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+thoracic spina bifida with hydrocephalus - open	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+thoracic spina bifida without hydrocephalus - open	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+thoracic spina bifida without mention of hydrocephalus	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+unilateral epilepsy	1	Epilepsy	Epilepsy or seizures
+unspecified spina bifida with hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+unspecified spina bifida without hydrocephalus - closed	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+unspecified spina bifida without hydrocephalus nos	1	Spina bifida	Structural developmental anomalies or disorders of CSF fluid pressure
+unspecified spinal muscular atrophy	1	Spinal muscular atrophy	Motor neuron diseases or related disorders
+variant creutzfeldt-jakob disease	1	Human prion disorders	Dementia
+varicella transverse myelitis	1	Multiple sclerosis or other white matter disorders	Multiple sclerosis or other white matter disorders
+visceral reflex epilepsy	4	Epilepsy	Epilepsy or seizures
+x-linked hydrocephalus	1	Hydrocephalus	Structural developmental anomalies or disorders of CSF fluid pressure
+"""[x] senile dementia, depressed or paranoid type"""	7	Dementia unknown/unspecified/other	Dementia
+"""[x]dementia in alzheimer's dis, atypical or mixed type"""	61	Alzheimer's disease	Dementia
+"""[x]dementia in alzheimer's disease, unspecified"""	19	Alzheimer's disease	Dementia
+"""[x]presenile dementia,alzheimer's type"""	1	Alzheimer's disease	Dementia
+"""[x]primary degen dementia of alzheimer's type, senile onset"""	2	Alzheimer's disease	Dementia
+"""[x]senile dementia,alzheimer's type"""	13	Alzheimer's disease	Dementia
+"""[x]vascular dementia, unspecified"""	11	Vascular dementia	Dementia
+"""acute confusional state, of cerebrovascular origin"""	1	Cerebrovascular disease	Cerebrovascular disease
+"""cereb infarct due cerebral venous thrombosis, nonpyogenic"""	4	Cerebral ischaemia	Cerebrovascular disease
+"""hyperten, abnorm renal/liver funct, stroke, bled score"""	297	Exclude	Exclude
+"""intracerebral haemorrhage in hemisphere, unspecified"""	1	Intracranial haemorrhage	Cerebrovascular disease
+"""intracerebral haemorrhage, intraventricular"""	4	Intracranial haemorrhage	Cerebrovascular disease
+"""intracerebral haemorrhage, multiple localized"""	1	Intracranial haemorrhage	Cerebrovascular disease
+"""left sided intracerebral haemorrhage, unspecified"""	3	Intracranial haemorrhage	Cerebrovascular disease
+"""right sided intracerebral haemorrhage, unspecified"""	3	Intracranial haemorrhage	Cerebrovascular disease
+"""sequelae of stroke,not specfd as h'morrhage or infarction"""	3	Cerebral ischaemia	Cerebrovascular disease
+"""stenosis, carotid artery"""	31	Cerebral ischaemia	Cerebrovascular disease
+"""subacute confusional state, of cerebrovascular origin"""	2	Cerebrovascular disease	Cerebrovascular disease
+"""subarachnoid haemorrh from intracranial artery, unspecif"""	2	Intracranial haemorrhage	Cerebrovascular disease
+[d] dementia	759	Dementia unknown/unspecified/other	Dementia
+[d] dementia in alzheimer's disease	72	Alzheimer's disease	Dementia
+[d] dementia with lewy bodies	96	Lewy body dementia	Dementia
+[d] vascular dementia	139	Vascular dementia	Dementia
+[rfc] alzheimer's disease	10	Alzheimer's disease	Dementia
+[rfc] cva	9	Cerebral ischaemia	Cerebrovascular disease
+[rfc] dementia	10	Dementia unknown/unspecified/other	Dementia
+[rfc] ischaemic attack	1	Cerebral ischaemia	Cerebrovascular disease
+[rfc] stroke	126	Cerebral ischaemia	Cerebrovascular disease
+[rfc] stroke/cva	7	Cerebral ischaemia	Cerebrovascular disease
+[v]personal history of cerebrovascular accident (cva)	10	Cerebral ischaemia	Cerebrovascular disease
+[v]personal history of stroke	18	Cerebral ischaemia	Cerebrovascular disease
+[x] presenile dementia nos	15	Dementia unknown/unspecified/other	Dementia
+[x] primary degenerative dementia nos	23	Dementia unknown/unspecified/other	Dementia
+[x] senile dementia nos	752	Dementia unknown/unspecified/other	Dementia
+"[x] senile dementia, depressed or paranoid type"	10	Dementia unknown/unspecified/other	Dementia
+[x] unspecified dementia	3455	Dementia unknown/unspecified/other	Dementia
+[x]alzheimer's dementia unspec	697	Alzheimer's disease	Dementia
+[x]alzheimer's disease type 1	3	Alzheimer's disease	Dementia
+[x]arteriosclerotic dementia	25	Cerebrovascular dementia	Dementia
+[x]cereb infarct due unsp occlus/stenos precerebr arteries	6	Cerebral ischaemia	Cerebrovascular disease
+[x]cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	1	Cerebral ischaemia	Cerebrovascular disease
+[x]cerebrovascular diseases	3	Cerebrovascular disease	Cerebrovascular disease
+"[x]delirium not superimposed on dementia, so described"	7	Exclude	Exclude
+[x]delirium superimposed on dementia	32	Dementia unknown/unspecified/other	Dementia
+"[x]dementia in alzheimer's dis, atypical or mixed type"	1077	Alzheimer's disease	Dementia
+[x]dementia in alzheimer's disease	3369	Alzheimer's disease	Dementia
+[x]dementia in alzheimer's disease with early onset	62	Alzheimer's disease	Dementia
+[x]dementia in alzheimer's disease with late onset	297	Alzheimer's disease	Dementia
+"[x]dementia in alzheimer's disease, unspecified"	145	Alzheimer's disease	Dementia
+[x]dementia in huntington's disease	37	Dementia unknown/unspecified/other	Dementia
+[x]dementia in other diseases classified elsewhere	131	Dementia unknown/unspecified	Dementia
+[x]dementia in other specified diseases classif elsewhere	16	Dementia unknown/unspecified	Dementia
+[x]dementia in parkinson's disease	410	Parkinson's Disease	Parkinson's Disease
+[x]dementia in pick's disease	26	Dementia unknown/unspecified/other	Dementia
+"[x]intracerebral haemorrhage in hemisphere, unspecified"	1	Intracranial haemorrhage	Cerebrovascular disease
+[x]lewy body dementia	679	Lewy body dementia	Dementia
+[x]mixed cortical and subcortical vascular dementia	102	Vascular dementia	Dementia
+[x]multi-infarct dementia	142	Vascular dementia	Dementia
+[x]other alzheimer's disease	2	Alzheimer's disease	Dementia
+[x]other cerebral infarction	32	Cerebral ischaemia	Cerebrovascular disease
+[x]other intracerebral haemorrhage	2	Intracranial haemorrhage	Cerebrovascular disease
+[x]other subarachnoid haemorrhage	2	Intracranial haemorrhage	Cerebrovascular disease
+[x]other vascular dementia	15	Vascular dementia	Dementia
+[x]other vascular syndroms/brain in cerebrovasculr diseases	10	Cerebral ischaemia	Cerebrovascular disease
+[x]predominantly cortical dementia	1	Dementia unknown/unspecified/other	Dementia
+"[x]presenile dementia,alzheimer's type"	6	Alzheimer's disease	Dementia
+"[x]primary degen dementia of alzheimer's type, senile onset"	1	Alzheimer's disease	Dementia
+"[x]primary degen dementia, alzheimer's type, presenile onset"	1	Alzheimer's disease	Dementia
+"[x]senile dementia,alzheimer's type"	296	Alzheimer's disease	Dementia
+"[x]subarachnoid haemorrh from intracranial artery, unspecif"	1	Intracranial haemorrhage	Cerebrovascular disease
+[x]subarachnoid haemorrhage from other intracranial arteries	1	Intracranial haemorrhage	Cerebrovascular disease
+[x]subcortical vascular dementia	34	Vascular dementia	Dementia
+[x]vascular dementia	6065	Vascular dementia	Dementia
+[x]vascular dementia of acute onset	19	Vascular dementia	Dementia
+"[x]vascular dementia, unspecified"	196	Vascular dementia	Dementia
+acute cerebrovascular insufficiency nos	1	Cerebral ischaemia	Cerebrovascular disease
+"acute confusional state, of cerebrovascular origin"	6	Cerebral ischaemia	Cerebrovascular disease
+admission to stroke unit	14	Cerebral ischaemia	Cerebrovascular disease
+alzheimer's disease	6926	Alzheimer's disease	Dementia
+alzheimer's disease with early onset	310	Alzheimer's disease	Dementia
+alzheimer's disease with late onset	125	Alzheimer's disease	Dementia
+antipsychotic drug therapy for dementia	7	Dementia unknown/unspecified/other	Dementia
+arteriosclerotic dementia	692	Vascular dementia	Dementia
+arteriosclerotic dementia nos	23	Vascular dementia	Dementia
+arteriosclerotic dementia with delirium	7	Vascular dementia	Dementia
+arteriosclerotic dementia with paranoia	24	Vascular dementia	Dementia
+basal nucleus haemorrhage	3	Intracranial haemorrhage	Cerebrovascular disease
+basilar artery occlusion	6	Cerebral ischaemia	Cerebrovascular disease
+basilar artery syndrome	16	TIA	Cerebrovascular disease
+brain stem stroke syndrome	65	Vascular syndromes of brain in cerebrovascular diseases··	Cerebrovascular disease
+brainstem infarction	28	Cerebral ischaemia	Cerebrovascular disease
+brainstem infarction nos	11	Cerebral ischaemia	Cerebrovascular disease
+bulbar haemorrhage	1	Intracranial haemorrhage	Cerebrovascular disease
+carotid artery disease	40	Cerebral ischaemia	Cerebrovascular disease
+carotid artery doppler abnormal	222	Cerebral ischaemia	Cerebrovascular disease
+carotid artery occlusion	235	Cerebral ischaemia	Cerebrovascular disease
+carotid artery stenosis	538	Cerebral ischaemia	Cerebrovascular disease
+carotid artery syndrome hemispheric	1	Cerebral ischaemia	Cerebrovascular disease
+carotid endarterectomy and patch	94	Cerebral ischaemia	Cerebrovascular disease
+central post-stroke pain	7	Cerebral ischaemia	Cerebrovascular disease
+"cereb infarct due cerebral venous thrombosis, nonpyogenic"	2	Cerebral ischaemia	Cerebrovascular disease
+cereb infarct due unsp occlus/stenos precerebr arteries	25	Cerebral ischaemia	Cerebrovascular disease
+cerebellar haemorrhage	114	Intracranial haemorrhage	Cerebrovascular disease
+cerebellar infarction	424	Cerebral ischaemia	Cerebrovascular disease
+cerebellar stroke syndrome	114	Vascular syndromes of brain in cerebrovascular diseases  	Cerebrovascular disease
+cerebral arterial occlusion	1541	Cerebral ischaemia	Cerebrovascular disease
+cerebral degeneration due to cerebrovascular disease	1	Cerebral ischaemia	Cerebrovascular disease
+cerebral degeneration due to multifocal leucoencephalopathy	3	Cerebral ischaemia	Cerebrovascular disease
+cerebral degeneration in hunter's disease	1	Cerebral ischaemia	Cerebrovascular disease
+cerebral degeneration nos	306	Cerebral ischaemia	Cerebrovascular disease
+cerebral degenerations usually manifest in childhood	54	Cerebral ischaemia	Cerebrovascular disease
+cerebral embolism	27	Cerebral ischaemia	Cerebrovascular disease
+cerebral embolus	3	Cerebral ischaemia	Cerebrovascular disease
+cerebral infarct due to thrombosis of precerebral arteries	62	Cerebral ischaemia	Cerebrovascular disease
+cerebral infarction due to embolism of cerebral arteries	34	Cerebral ischaemia	Cerebrovascular disease
+cerebral infarction due to embolism of precerebral arteries	11	Cerebral ischaemia	Cerebrovascular disease
+cerebral infarction due to thrombosis of cerebral arteries	12	Cerebral ischaemia	Cerebrovascular disease
+cerebral infarction nos	2208	Cerebral ischaemia	Cerebrovascular disease
+cerebral thrombosis	231	Cerebral ischaemia	Cerebrovascular disease
+cerebral venous thrombosis	9	Cerebral ischaemia	Cerebrovascular disease
+cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	170	Cerebral ischaemia	Cerebrovascular disease
+cerebrovascular accident care plan	17	Cerebral ischaemia	Cerebrovascular disease
+cerebrovascular disease	7215	Cerebrovascular disease	Cerebrovascular disease
+cerebrovascular disease management	1	Cerebrovascular disease	Cerebrovascular disease
+cerebrovascular disease monitoring default	3	Cerebrovascular disease	Cerebrovascular disease
+cerebrovascular disease nos	189	Cerebrovascular disease	Cerebrovascular disease
+cerebrovascular system anomalies	1	Cerebrovascular disease	Cerebrovascular disease
+cortical haemorrhage	7	Intracranial haemorrhage	Cerebrovascular disease
+cva - cerebral artery occlusion	1579	Cerebral ischaemia	Cerebrovascular disease
+cva - cerebrovascular accid due to intracerebral haemorrhage	652	Intracranial haemorrhage	Cerebrovascular disease
+cva - cerebrovascular accident in the puerperium	1	Cerebral ischaemia	Cerebrovascular disease
+cva - cerebrovascular accident unspecified	1488	Cerebral ischaemia	Cerebrovascular disease
+cva unspecified	5743	Cerebral ischaemia	Cerebrovascular disease
+delivery of rehabilitation for stroke	17	Cerebral ischaemia	Cerebrovascular disease
+dementia care plan	2726	Dementia unknown/unspecified/other	Dementia
+dementia confirmed	2	Dementia unknown/unspecified	Dementia
+"dementia in alzheimer's dis, atypical or mixed type, other mixed symptoms"	11	Alzheimer's disease	Dementia
+dementia in conditions ec	119	Dementia unknown/unspecified/other	Dementia
+dementia link worker - mental health cpn	1	Dementia unknown/unspecified/other	Dementia
+dementia monitoring	462	Dementia unknown/unspecified/other	Dementia
+dementia monitoring administration	125	Dementia unknown/unspecified/other	Dementia
+dementia monitoring first letter	1189	Dementia unknown/unspecified/other	Dementia
+dementia monitoring in primary care	8	Dementia unknown/unspecified/other	Dementia
+dementia monitoring in secondary care	4	Dementia unknown/unspecified/other	Dementia
+dementia monitoring second letter	272	Dementia unknown/unspecified/other	Dementia
+dementia monitoring third letter	149	Dementia unknown/unspecified/other	Dementia
+dementia monitoring verbal invite	47	Dementia unknown/unspecified/other	Dementia
+dementia review	215	Dementia unknown/unspecified/other	Dementia
+dementia review with third party	10	Dementia unknown/unspecified/other	Dementia
+dementia stage at diagnosis - early (mild)	5	Dementia unknown/unspecified/other	Dementia
+dementia stage at diagnosis - late (severe)	2	Dementia unknown/unspecified/other	Dementia
+dementia stage at diagnosis - mid (moderate)	4	Dementia unknown/unspecified/other	Dementia
+did not attend dementia monitoring	1	Dementia unknown/unspecified/other	Dementia
+discharge from community stroke service	2	Cerebral ischaemia	Cerebrovascular disease
+drug-induced dementia	1	Dementia unknown/unspecified/other	Dementia
+endarterectomy and patch repair of carotid artery	44	Cerebral ischaemia	Cerebrovascular disease
+endarterectomy of carotid artery nec	356	Cerebral ischaemia	Cerebrovascular disease
+evacuation of intracerebral haematoma nec	27	Intracranial haemorrhage	Cerebrovascular disease
+excepted from stroke quality indicators: informed dissent	1243	Exclude	Exclude
+excepted from stroke quality indicators: patient unsuitable	2655	Exclude	Exclude
+exception reporting: stroke quality indicators	193	Exclude	Exclude
+external capsule haemorrhage	1	Intracranial haemorrhage	Cerebrovascular disease
+generalised ischaemic cerebrovascular disease nos	80	Cerebral ischaemia	Cerebrovascular disease
+h/o: cerebrovascular disease	43	Cerebrovascular disease	Cerebrovascular disease
+h/o: cva/stroke	929	Cerebral ischaemia	Cerebrovascular disease
+h/o: dementia	880	Dementia unknown/unspecified/other	Dementia
+h/o: stroke	349	Cerebral ischaemia	Cerebrovascular disease
+h/o: stroke in last year	7	Cerebral ischaemia	Cerebrovascular disease
+haemorrhagic stroke monitoring	24	Intracranial haemorrhage	Cerebrovascular disease
+"hyperten, abnorm renal/liver funct, stroke, bled score"	298	Exclude	Exclude
+infantile posthaemorrhagic hydrocephalus	2	Intracranial haemorrhage	Cerebrovascular disease
+infarction - cerebral	181	Cerebral ischaemia	Cerebrovascular disease
+infarction - precerebral	2	Cerebral ischaemia	Cerebrovascular disease
+infarction of basal ganglia	91	Cerebral ischaemia	Cerebrovascular disease
+insufficiency - basilar artery	39	Cerebral ischaemia	Cerebrovascular disease
+intermittent cerebral ischaemia	9	Cerebral ischaemia	Cerebrovascular disease
+internal capsule haemorrhage	15	Intracranial haemorrhage	Cerebrovascular disease
+intracerebral (nontraumatic) haemorrhage of fet and newborn	1	Intracranial haemorrhage	Cerebrovascular disease
+intracerebral haemorrhage	869	Intracranial haemorrhage	Cerebrovascular disease
+intracerebral haemorrhage in fetus or newborn	1	Intracranial haemorrhage	Cerebrovascular disease
+"intracerebral haemorrhage in hemisphere, unspecified"	3	Intracranial haemorrhage	Cerebrovascular disease
+intracerebral haemorrhage nos	98	Intracranial haemorrhage	Cerebrovascular disease
+"intracerebral haemorrhage, intraventricular"	12	Intracranial haemorrhage	Cerebrovascular disease
+"intracerebral haemorrhage, multiple localized"	1	Intracranial haemorrhage	Cerebrovascular disease
+intracranial haemorrhage nos	68	Intracranial haemorrhage	Cerebrovascular disease
+intraventric (nontraumatic) haemorrhage grade 4 fet newborn	1	Intracranial haemorrhage	Cerebrovascular disease
+jakob-creutzfeldt disease	3	Human prion disorders	Dementia
+late effects of cerebrovascular disease	5	Cerebrovascular disease	Cerebrovascular disease
+lateral medullary syndrome	11	Vascular syndromes of brain in cerebrovascular diseases  	Cerebrovascular disease
+left sided cerebral infarction	405	Cerebral ischaemia	Cerebrovascular disease
+left sided cva	706	Cerebral ischaemia	Cerebrovascular disease
+"left sided intracerebral haemorrhage, unspecified"	6	Intracranial haemorrhage	Cerebrovascular disease
+lobar cerebral haemorrhage	14	Intracranial haemorrhage	Cerebrovascular disease
+local alzheimer's society involved	4	Alzheimer's disease	Dementia
+middle cerebral artery syndrome	84	Vascular syndromes of brain in cerebrovascular diseases  	Cerebrovascular disease
+"mixed cortical and subcortical vascular dementia, other mixed symptoms"	1	Vascular dementia	Dementia
+"mixed cortical and subcortical vascular dementia, other symptoms, predominantly delusional"	1	Vascular dementia	Dementia
+"mixed cortical and subcortical vascular dementia, other symptoms, predominantly depressive"	1	Vascular dementia	Dementia
+"mixed cortical and subcortical vascular dementia, other symptoms, predominantly hallucinatory"	1	Vascular dementia	Dementia
+"mixed cortical and subcortical vascular dementia, without additional symptoms"	1	Vascular dementia	Dementia
+multi infarct dementia	489	Vascular dementia	Dementia
+occlusion and stenosis of middle cerebral artery	4	Cerebral ischaemia	Cerebrovascular disease
+occlusion/stenosis cerebral arts not result cerebral infarct	1	Cerebral ischaemia	Cerebrovascular disease
+occlusive stroke	2	Cerebral ischaemia	Cerebrovascular disease
+other alcoholic dementia	53	Dementia unknown/unspecified/other	Dementia
+other and unspecified intracranial haemorrhage	11	Intracranial haemorrhage	Cerebrovascular disease
+other cerebral degeneration	2	Cerebral ischaemia	Cerebrovascular disease
+other cerebral degeneration nos	1	Cerebral ischaemia	Cerebrovascular disease
+other cerebral degenerations	8	Cerebral ischaemia	Cerebrovascular disease
+other cerebral haemorrhage following injury nos	1	Intracranial haemorrhage	Cerebrovascular disease
+other cerebrovascular disease	28	Cerebrovascular disease	Cerebrovascular disease
+other cerebrovascular disease nos	7	Cerebrovascular disease	Cerebrovascular disease
+other cerebrovascular disease os	3	Cerebrovascular disease	Cerebrovascular disease
+other precerebral artery occlusion	2	Cerebral ischaemia	Cerebrovascular disease
+other specified cerebrovascular anomaly	2	Cerebrovascular disease	Cerebrovascular disease
+other specified cerebrovascular disease	5	Cerebrovascular disease	Cerebrovascular disease
+other transient cerebral ischaemia	29	Cerebral ischaemia	Cerebrovascular disease
+"other vascular dementia, other mixed symptoms"	1	Vascular dementia	Dementia
+"other vascular dementia, other symptoms, predominantly delusional"	1	Vascular dementia	Dementia
+"other vascular dementia, other symptoms, predominantly depressive"	1	Vascular dementia	Dementia
+"other vascular dementia, other symptoms, predominantly hallucinatory"	1	Vascular dementia	Dementia
+"other vascular dementia, without additional symptoms"	1	Vascular dementia	Dementia
+person centred dementia support plan (scotland)	1	Dementia unknown/unspecified/other	Dementia
+pontine haemorrhage	46	Intracranial haemorrhage	Cerebrovascular disease
+posterior cerebral artery syndrome	22	Vascular syndromes of brain in cerebrovascular diseases 	Cerebrovascular disease
+precerebral arterial occlusion	2	Cerebral ischaemia	Cerebrovascular disease
+precerebral artery occlusion nos	2	Cerebral ischaemia	Cerebrovascular disease
+presenile dementia	355	Dementia unknown/unspecified/other	Dementia
+presenile dementia nos	34	Dementia unknown/unspecified/other	Dementia
+presenile dementia with delirium	5	Dementia unknown/unspecified/other	Dementia
+presenile dementia with depression	10	Dementia unknown/unspecified/other	Dementia
+presenile dementia with paranoia	45	Dementia unknown/unspecified/other	Dementia
+puerperal cerebrovascular disorder - delivered	1	Cerebrovascular disease	Cerebrovascular disease
+puerperal cerebrovascular disorder unspecified	1	Cerebrovascular disease	Cerebrovascular disease
+puerperal cerebrovascular disorder with antenatal comp	1	Cerebrovascular disease	Cerebrovascular disease
+pure motor lacunar syndrome	21	Vascular syndromes of brain in cerebrovascular diseases 	Cerebrovascular disease
+pure sensory lacunar syndrome	5	Vascular syndromes of brain in cerebrovascular diseases 	Cerebrovascular disease
+ref multidisciplinary stroke function improvement declined	1	Cerebral ischaemia	Cerebrovascular disease
+ref to multidisciplinary stroke function improvement service	5	Cerebral ischaemia	Cerebrovascular disease
+refer to dementia care advisor	13	Dementia unknown/unspecified/other	Dementia
+referral by stroke nurse specialist	2	Cerebral ischaemia	Cerebrovascular disease
+referral to community stroke service	1	Cerebral ischaemia	Cerebrovascular disease
+referral to dementia care advisor	144	Dementia unknown/unspecified/other	Dementia
+referral to dementia early intervention service	11	Dementia unknown/unspecified/other	Dementia
+referral to stroke rehabilitation service	3	Cerebral ischaemia	Cerebrovascular disease
+right sided cerebral infarction	212	Cerebral ischaemia	Cerebrovascular disease
+right sided cva	548	Cerebral ischaemia	Cerebrovascular disease
+"right sided intracerebral haemorrhage, unspecified"	30	Intracranial haemorrhage	Cerebrovascular disease
+ruptured berry aneurysm	16	Cerebral ischaemia	Cerebrovascular disease
+senile dementia	3170	Dementia unknown/unspecified/other	Dementia
+senile dementia with delirium	26	Dementia unknown/unspecified/other	Dementia
+senile dementia with depression	167	Dementia unknown/unspecified/other	Dementia
+senile dementia with depressive or paranoid features	30	Dementia unknown/unspecified/other	Dementia
+senile dementia with depressive or paranoid features nos	7	Dementia unknown/unspecified/other	Dementia
+senile dementia with paranoia	128	Dementia unknown/unspecified/other	Dementia
+senile/presenile dementia	1943	Dementia unknown/unspecified/other	Dementia
+sequelae of cerebral infarction	8	Cerebral ischaemia	Cerebrovascular disease
+sequelae of intracerebral haemorrhage	3	Intracranial haemorrhage	Cerebrovascular disease
+sequelae of other nontraumatic intracranial haemorrhage	7	Intracranial haemorrhage	Cerebrovascular disease
+"sequelae of stroke,not specfd as h'morrhage or infarction"	4	Cerebral ischaemia	Cerebrovascular disease
+sequelae of subarachnoid haemorrhage	2	Intracranial haemorrhage	Cerebrovascular disease
+sequelae/other + unspecified cerebrovascular diseases	3	Cerebrovascular disease	Cerebrovascular disease
+shared care prescribing of drugs for dementia	20	Dementia unknown/unspecified/other	Dementia
+shared care prescribing of drugs for dementia declined	1	Dementia unknown/unspecified/other	Dementia
+signposting to dementia support service	5	Dementia unknown/unspecified/other	Dementia
+small vessel cerebrovascular disease	501	Cerebral ischaemia	Cerebrovascular disease
+stenosis of precerebral arteries	1	Cerebral ischaemia	Cerebrovascular disease
+"stenosis, carotid artery"	179	Cerebral ischaemia	Cerebrovascular disease
+stroke / transient ischaemic attack referral	1769	Cerebral ischaemia	Cerebrovascular disease
+stroke 6 month review	23	Cerebral ischaemia	Cerebrovascular disease
+stroke and cerebrovascular accident unspecified	9840	Cerebral ischaemia	Cerebrovascular disease
+stroke annual review	40	Cerebral ischaemia	Cerebrovascular disease
+stroke due to cerebral arterial occlusion	610	Cerebral ischaemia	Cerebrovascular disease
+stroke due to intracerebral haemorrhage	129	Intracranial haemorrhage	Cerebrovascular disease
+stroke group member	4	Cerebral ischaemia	Cerebrovascular disease
+stroke in the puerperium	1	Cerebral ischaemia	Cerebrovascular disease
+stroke monitoring	6145	Cerebral ischaemia	Cerebrovascular disease
+stroke monitoring invite 1	99	Cerebral ischaemia	Cerebrovascular disease
+stroke monitoring invite 2	11	Cerebral ischaemia	Cerebrovascular disease
+stroke monitoring invite 3	6	Cerebral ischaemia	Cerebrovascular disease
+stroke self-management plan agreed	8	Cerebral ischaemia	Cerebrovascular disease
+stroke unspecified	1037	Cerebral ischaemia	Cerebrovascular disease
+stroke/cva annual review	4514	Cerebral ischaemia	Cerebrovascular disease
+stroke/transient ischaemic attack monitoring administration	230	Cerebral ischaemia	Cerebrovascular disease
+stroke/transient ischaemic attack monitoring first letter	5209	Cerebral ischaemia	Cerebrovascular disease
+stroke/transient ischaemic attack monitoring second letter	1529	Cerebral ischaemia	Cerebrovascular disease
+stroke/transient ischaemic attack monitoring third letter	777	Cerebral ischaemia	Cerebrovascular disease
+stroke/transient ischaemic attack monitoring verbal invitati	115	Cerebral ischaemia	Cerebrovascular disease
+"subacute confusional state, of cerebrovascular origin"	12	Cerebrovascular disease	Cerebrovascular disease
+"subarachnoid haemorrh from intracranial artery, unspecif"	6	Intracranial haemorrhage	Cerebrovascular disease
+subarachnoid haemorrhage	1846	Intracranial haemorrhage	Cerebrovascular disease
+subarachnoid haemorrhage from anterior communicating artery	136	Intracranial haemorrhage	Cerebrovascular disease
+subarachnoid haemorrhage from basilar artery	10	Intracranial haemorrhage	Cerebrovascular disease
+subarachnoid haemorrhage from carotid siphon and bifurcation	1	Intracranial haemorrhage	Cerebrovascular disease
+subarachnoid haemorrhage from middle cerebral artery	14	Intracranial haemorrhage	Cerebrovascular disease
+subarachnoid haemorrhage from posterior communicating artery	3	Intracranial haemorrhage	Cerebrovascular disease
+subarachnoid haemorrhage from vertebral artery	1	Intracranial haemorrhage	Cerebrovascular disease
+subarachnoid haemorrhage nos	48	Intracranial haemorrhage	Cerebrovascular disease
+"subcortical vascular dementia, other mixed symptoms"	1	Vascular dementia	Dementia
+"subcortical vascular dementia, other symptoms, predominantly delusional"	1	Vascular dementia	Dementia
+"subcortical vascular dementia, other symptoms, predominantly depressive"	1	Vascular dementia	Dementia
+"subcortical vascular dementia, other symptoms, predominantly hallucinatory"	1	Vascular dementia	Dementia
+"subcortical vascular dementia, without additional symptoms"	1	Vascular dementia	Dementia
+subdural haemorrhage - nontraumatic	47	Intracranial haemorrhage	Cerebrovascular disease
+subdural haemorrhage nos	244	Intracranial haemorrhage	Cerebrovascular disease
+suspected cerebrovascular disease	172	Cerebrovascular disease	Cerebrovascular disease
+suspected stroke	5	Cerebral ischaemia	Cerebrovascular disease
+suspected transient ischaemic attack	4	Cerebral ischaemia	Cerebrovascular disease
+tia clinical management plan no longer in place	2	Cerebral ischaemia	Cerebrovascular disease
+transient cerebral ischaemia	8074	Cerebral ischaemia	Cerebrovascular disease
+transient cerebral ischaemia nos	271	Cerebral ischaemia	Cerebrovascular disease
+transient ischaemic attack	11289	Cerebral ischaemia	Cerebrovascular disease
+transient ischaemic attack clinical management plan	9	Cerebral ischaemia	Cerebrovascular disease
+transient ischaemic attack monitoring	1	Cerebral ischaemia	Cerebrovascular disease
+traumatic subdural haemorrhage	38	Intracranial haemorrhage	Cerebrovascular disease
+uncomplicated arteriosclerotic dementia	2	Vascular dementia	Dementia
+uncomplicated presenile dementia	1	Dementia unknown/unspecified/other	Dementia
+uncomplicated senile dementia	1555	Dementia unknown/unspecified/other	Dementia
+"unspecified dementia, other mixed symptoms"	14	Dementia unknown/unspecified/other	Dementia
+"unspecified dementia, other symptoms, predominantly delusional"	1	Dementia unknown/unspecified/other	Dementia
+"unspecified dementia, other symptoms, predominantly depressive"	1	Dementia unknown/unspecified/other	Dementia
+"unspecified dementia, other symptoms, predominantly hallucinatory"	1	Dementia unknown/unspecified/other	Dementia
+"unspecified dementia, without additional symptoms"	1	Dementia unknown/unspecified/other	Dementia
+"vascular dementia of acute onset, other mixed symptoms"	1	Vascular dementia	Dementia
+"vascular dementia of acute onset, other symptoms, predominantly delusional"	1	Vascular dementia	Dementia
+"vascular dementia of acute onset, other symptoms, predominantly depressive"	1	Vascular dementia	Dementia
+"vascular dementia of acute onset, other symptoms, predominantly hallucinatory"	1	Vascular dementia	Dementia
+"vascular dementia of acute onset, without additional symptoms"	1	Vascular dementia	Dementia
+"vascular dementia, unspecified, other mixed symptoms"	2	Vascular dementia	Dementia
+"vascular dementia, unspecified, other symptoms, predominantly delusional"	1	Vascular dementia	Dementia
+"vascular dementia, unspecified, other symptoms, predominantly depressive"	1	Vascular dementia	Dementia
+"vascular dementia, unspecified, other symptoms, predominantly hallucinatory"	1	Vascular dementia	Dementia
+"vascular dementia, unspecified, without additional symptoms"	5	Vascular dementia	Dementia
+vascular parkinsonism	127	Parkinson's Disease	Parkinsonism other
+vertebral artery occlusion	16	Cerebral ischaemia	Cerebrovascular disease
+vertebral artery syndrome	11	Cerebral ischaemia	Cerebrovascular disease
+vertebro-basilar artery syndrome	32	Cerebral ischaemia	Cerebrovascular disease
+vertebro-basilar insufficiency	282	Cerebral ischaemia	Cerebrovascular disease
+vertebrobasilar insufficiency	98	Cerebral ischaemia	Cerebrovascular disease
+wallenberg syndrome	1	Vascular syndromes of brain in cerebrovascular diseases 	Cerebrovascular disease
+"""cerebral palsy, not congenital or infantile, acute"""	5	Cerebral palsy	Cerebral palsy
+[d]spastic gait	48	Spasticity	Spinal cord disorders 
+[d]transient monoplegia nos	3	Paralytic symptoms	Paralysis
+[d]transient paralysis of a limb	26	Paralytic symptoms	Paralysis
+[rfc] cerebral palsy	13	Cerebral palsy	Cerebral palsy
+[x]cerebral palsy and other paralytic syndromes	3	Cerebral palsy	Cerebral palsy
+acute flaccid paralysis	1	Paralytic symptoms	Paralysis
+acute radial nerve palsy	147	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+ataxic diplegic cerebral palsy	5	Cerebral palsy	Cerebral palsy
+ataxic infantile cerebral palsy	4	Cerebral palsy	Cerebral palsy
+athetoid cerebral palsy	51	Cerebral palsy	Cerebral palsy
+brachial plexus palsy due to birth trauma	9	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+cauda equina injury without bony injury	2	Cauda equina syndrome	Spinal cord disorders 
+cauda equina syndrome	628	Cauda equina syndrome	Spinal cord disorders 
+cauda equina syndrome nos	26	Cauda equina syndrome	Spinal cord disorders 
+cauda equina syndrome not affecting bladder	2	Cauda equina syndrome	Spinal cord disorders 
+cauda equina syndrome with cord bladder	11	Cauda equina syndrome	Spinal cord disorders 
+cerebral palsy	46	Cerebral palsy	Cerebral palsy
+cerebral palsy nos	8	Cerebral palsy	Cerebral palsy
+cerebral palsy with spastic diplegia	63	Cerebral palsy	Cerebral palsy
+"cerebral palsy, not congenital or infantile, acute"	6	Cerebral palsy	Cerebral palsy
+choreoathetoid cerebral palsy	1	Cerebral palsy	Cerebral palsy
+closed injury cauda equina	3	Cauda equina syndrome	Spinal cord disorders 
+congenital cerebral palsy	937	Cerebral palsy	Cerebral palsy
+congenital cerebral palsy nos	92	Cerebral palsy	Cerebral palsy
+congenital diplegia	17	Cerebral palsy	Cerebral palsy
+congenital diplegia nos	6	Cerebral palsy	Cerebral palsy
+congenital hemiplegia	38	Cerebral palsy	Cerebral palsy
+congenital monoplegia	4	Cerebral palsy	Cerebral palsy
+congenital paraplegia	2	Cerebral palsy	Cerebral palsy
+congenital quadriplegia	10	Cerebral palsy	Cerebral palsy
+congenital spastic cerebral palsy	11	Cerebral palsy	Cerebral palsy
+correction of erb's palsy	3	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+diplegia of upper limbs	7	Paralytic symptoms	Paralysis
+dyskinetic cerebral palsy	11	Cerebral palsy	Cerebral palsy
+erb's palsy	32	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+erb-duchenne paralysis	2	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+exercises for paralysis	2	Paralytic symptoms	Paralysis
+exercises for spasticity	7	Spasticity	Spinal cord disorders 
+familial hypokalaemic periodic paralysis	30	Paralytic symptoms	Paralysis
+familial periodic paralysis	6	Paralytic symptoms	Paralysis
+flaccid hemiplegia	2	Paralytic symptoms	Paralysis
+flaccid infantile cerebral palsy	1	Cerebral palsy	Cerebral palsy
+flaccid paraplegia	9	Paralytic symptoms	Paralysis
+flaccid tetraplegia	1	Paralytic symptoms	Paralysis
+general paralysis of insane	1	Paralytic symptoms	Paralysis
+gross motor function classification system cerebral palsy	1	Cerebral palsy	Cerebral palsy
+hemiplegia	386	Paralytic symptoms	Paralysis
+hemiplegia nos	78	Paralytic symptoms	Paralysis
+hereditary spastic paraplegia	43	Spinal cord disorders 	Spinal cord disorders 
+hysterical paralysis	13	Paralytic symptoms	Paralysis
+infantile cerebral palsy	63	Cerebral palsy	Cerebral palsy
+infantile hemiplegia nos	21	Paralytic symptoms	Paralysis
+l'episcopo operation for obstetric palsy	1	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+left hemiplegia	165	Paralytic symptoms	Paralysis
+lower limb spasticity	127	Spasticity	Spinal cord disorders 
+lumbar disc prolapse with cauda equina compression	36	Cauda equina syndrome	Spinal cord disorders 
+massive muscular calcification associated with paraplegia	1	Paralytic symptoms	Paralysis
+monoplegia of lower limb	5	Paralytic symptoms	Paralysis
+monoplegia of upper limb	10	Paralytic symptoms	Paralysis
+monoplegia unspecified	3	Paralytic symptoms	Paralysis
+o/e - diplegia	49	Paralytic symptoms	Paralysis
+o/e - gait spastic	3	Spasticity	Spinal cord disorders 
+o/e - hemiplegia	34	Paralytic symptoms	Paralysis
+o/e - monoplegia	2	Paralytic symptoms	Paralysis
+o/e - paralysis	9	Paralytic symptoms	Paralysis
+o/e - paralysis nos	1	Paralytic symptoms	Paralysis
+o/e - paraplegia	17	Paralytic symptoms	Paralysis
+o/e - quadriplegia	663	Paralytic symptoms	Paralysis
+o/e - spastic gait	2	Spasticity	Spinal cord disorders 
+other cerebral palsy	2	Cerebral palsy	Cerebral palsy
+other infantile cerebral palsy nos	17	Cerebral palsy	Cerebral palsy
+other specified brachial plexus palsy due to birth trauma	1	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+paralysis following electric shock	9	Paralytic symptoms	Paralysis
+paralysis nos	81	Paralytic symptoms	Paralysis
+paralysis present	23	Paralytic symptoms	Paralysis
+paraplegia	955	Paralytic symptoms	Paralysis
+paraplegia - congenital	1	Paralytic symptoms	Paralysis
+progressive bulbar palsy	25	MND	Motor neuron diseases or related disorders
+psychogenic paralysis	12	Paralytic symptoms	Paralysis
+quadriplegia	136	Paralytic symptoms	Paralysis
+reason for referral: cerebral palsy	1	Cerebral palsy	Cerebral palsy
+right hemiplegia	145	Paralytic symptoms	Paralysis
+sever operation for erb's palsy	1	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+spastic cerebral palsy	71	Cerebral palsy	Cerebral palsy
+spastic diplegic cerebral palsy	3	Cerebral palsy	Cerebral palsy
+spastic foot	4	Spasticity	Spinal cord disorders 
+spastic hemiplegia	69	Paralytic symptoms	Paralysis
+spastic hemiplegic cerebral palsy	2	Cerebral palsy	Cerebral palsy
+spastic paraparesis	36	Degenerative myelopathic disorders	Spinal cord disorders 
+spastic paraplegia	131	Degenerative myelopathic disorders	Spinal cord disorders 
+spastic quadriplegic cerebral palsy	10	Cerebral palsy	Cerebral palsy
+spastic tetraplegia	24	Paralytic symptoms	Paralysis
+specified palsy nec	211	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+supranuclear paralysis	3	Paralytic symptoms	Paralysis
+tardy ulnar nerve palsy	19	Mononeuropathy	"Disorders of nerve root, plexus or peripheral nerves"
+tetraplegia	120	Paralytic symptoms	Paralysis
+tetraplegia - congenital	4	Paralytic symptoms	Paralysis
+tropical spastic paraplegia	1	Degenerative myelopathic disorders	Spinal cord disorders 
+upper limb flaccidity	1	Paralytic symptoms	Paralysis
+upper limb spasticity	35	Spasticity	Spinal cord disorders 
+worsening limb spasticity	7	Spasticity	Spinal cord disorders 
